@@ -84,7 +84,7 @@ body{
         }
 
         p{
-            line-height: 1.6;
+            line-height: 1.4;
         }
 
         h2{
@@ -151,7 +151,7 @@ body{
 
 @media (min-width:70em){
     .cardsContainer{
-        padding: 4em 0;
+        padding: 8em 0;
         width: 90%;
         gap: 1.6em;
         grid-template-columns: repeat(4, 1fr);

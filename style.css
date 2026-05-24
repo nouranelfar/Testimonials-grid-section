@@ -67,7 +67,7 @@ body main {
   line-height: 1.6;
 }
 .cardsContainer .card p {
-  line-height: 1.6;
+  line-height: 1.4;
 }
 .cardsContainer .card h2 {
   font-size: 1.5rem;
@@ -120,7 +120,7 @@ body main {
 
 @media (min-width: 70em) {
   .cardsContainer {
-    padding: 4em 0;
+    padding: 8em 0;
     width: 90%;
     gap: 1.6em;
     grid-template-columns: repeat(4, 1fr);
