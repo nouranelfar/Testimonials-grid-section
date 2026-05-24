@@ -121,13 +121,13 @@ body main {
 @media (min-width: 70em) {
   .cardsContainer {
     padding: 8em 0;
-    width: 90%;
+    width: 85%;
     gap: 1.6em;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, auto);
   }
   .cardsContainer .card {
-    gap: 1.1em;
+    gap: 1em;
     padding: 1.8em;
   }
   .cardsContainer .purple {
