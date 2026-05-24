@@ -22,7 +22,7 @@ body {
   background-color: hsl(214, 17%, 92%);
   font-weight: 500;
   color: hsl(0, 0%, 100%);
-  font-size: clamp(0.9rem, 0.85rem + 0.2vw, 1.1rem);
+  font-size: clamp(0.9rem, 0.85rem + 0.1vw, 1.1rem);
 }
 body main {
   width: 100%;
@@ -57,14 +57,14 @@ body main {
 }
 .cardsContainer .card .cardDetails img {
   border-radius: 50%;
-  width: 3em;
-  height: 3em;
+  width: 2.5em;
+  height: 2.5em;
   -o-object-fit: cover;
      object-fit: cover;
 }
 .cardsContainer .card .cardDetails div span {
   display: block;
-  line-height: 1.6;
+  line-height: 1.2;
 }
 .cardsContainer .card p {
   line-height: 1.4;
