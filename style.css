@@ -22,7 +22,7 @@ body {
   background-color: hsl(214, 17%, 92%);
   font-weight: 500;
   color: hsl(0, 0%, 100%);
-  font-size: clamp(0.9rem, 0.85rem + 0.08vw, 1.1rem);
+  font-size: 0.9rem;
 }
 body main {
   width: 100%;
