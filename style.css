@@ -127,7 +127,7 @@ body main {
     grid-template-rows: repeat(2, auto);
   }
   .cardsContainer .card {
-    gap: 1em;
+    gap: 1.1em;
     padding: 1.5em;
   }
   .cardsContainer .purple {
